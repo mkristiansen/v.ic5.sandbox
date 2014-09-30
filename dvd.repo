@@ -1,0 +1,6 @@
+[dvd]
+name=RHEL 6.4 x86_64 DVD
+baseurl=file:///ic5/rhel/Server
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
